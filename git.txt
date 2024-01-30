@@ -1,0 +1,17 @@
+Here are the guidelines for Mrs. Chen Yong's "helpchen" repository:
+helpchen/git.txt
+Installing Git on a Local Machine:
+Download the latest version of Git for your operating system from the official website (https://git-scm.com/downloads).
+For Windows:
+Double-click on the downloaded executable file to launch the installer.
+Follow the on-screen instructions to complete the installation.
+Once installed, open the Git Bash application from the Start menu.
+For macOS:
+Open the Terminal application, which can be found in the Utilities folder within the Applications folder.
+Check if Git is already installed by typing git --version in the Terminal window.
+If Git is not installed, you can install it using the Homebrew package manager. First, install Homebrew by typing /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)" in the Terminal.
+After installing Homebrew, install Git by typing brew install git in the Terminal.
+For Linux:
+The installation process varies depending on the Linux distribution you are using. You can typically install Git using the package manager (e.g., apt-get, yum, dnf, etc.).
+For example, if you are using Ubuntu, you can install Git by typing sudo apt-get install git in the Terminal.
+After installing Git, you can start using it to collaborate on projects hosted on GitHub.
