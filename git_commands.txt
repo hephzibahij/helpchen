@@ -1,0 +1,21 @@
+Here are 20 Git commands and their functions:
+git init: Initializes a new Git repository in the current directory.
+git status: Shows the current state of the working directory and the staging area.
+git add: Stages files for the next commit.
+git commit: Commits staged changes with a commit message.
+git log: Displays the commit history.
+git branch: Lists or creates new branches.
+git checkout: Switches between branches or restores working tree files.
+git merge: Combines the history of two branches.
+git diff: Shows the differences between commits, commit and working tree, etc.
+git push: Pushes local branch commits to a remote repository.
+git pull: Pulls down new commits from a remote repository.
+git clone: Clones a remote repository to a local directory.
+git remote: Manages connections to remote repositories.
+git reset: Resets the current branch to an earlier commit.
+git cherry-pick: Applies the changes introduced by one or more existing commits.
+git revert: Reverts a commit by creating a new commit.
+git stash: Saves the state of the working directory and the staging area.
+git bisect: Finds the commit that introduced a specific bug.
+git clean: Removes untracked files from the working tree.
+git cherry: Shows the patch ID differences between two branches.
